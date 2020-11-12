@@ -1,0 +1,13 @@
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\bin\Debug\netcoreapp3.1\DataInHTML.exe
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\bin\Debug\netcoreapp3.1\DataInHTML.deps.json
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\bin\Debug\netcoreapp3.1\DataInHTML.runtimeconfig.json
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\bin\Debug\netcoreapp3.1\DataInHTML.runtimeconfig.dev.json
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\bin\Debug\netcoreapp3.1\DataInHTML.dll
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\bin\Debug\netcoreapp3.1\DataInHTML.pdb
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\obj\Debug\netcoreapp3.1\DataInHTML.csprojAssemblyReference.cache
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\obj\Debug\netcoreapp3.1\DataInHTML.AssemblyInfoInputs.cache
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\obj\Debug\netcoreapp3.1\DataInHTML.AssemblyInfo.cs
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\obj\Debug\netcoreapp3.1\DataInHTML.csproj.CoreCompileInputs.cache
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\obj\Debug\netcoreapp3.1\DataInHTML.dll
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\obj\Debug\netcoreapp3.1\DataInHTML.pdb
+C:\Users\dextra\Documents\DextraLineProjects\Adatmegjelenítés\DataInHTML\DataInHTML\obj\Debug\netcoreapp3.1\DataInHTML.genruntimeconfig.cache
