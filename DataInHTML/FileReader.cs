@@ -7,11 +7,15 @@ namespace DataInHTML
 {
     class FileReader
     {
-        public String[] readCsvFileLines(string filePath)
+        public List<string[]> readCsvFileLines(string filePath)
         {
-            string[] lines = new string[] {};
-            lines = File.ReadAllLines(filePath);
-            return lines;
+            string[] lines = File.ReadAllLines(filePath);
+            List<string[]> allLines = new List<string[]> { };
+            for (int i = 0; i < lines.Length; i++)
+            {
+
+            }
+            return allLines;
         }
 
         public string[] getDataFromLine(string line)
